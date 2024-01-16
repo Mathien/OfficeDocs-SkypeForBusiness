@@ -180,7 +180,7 @@ Let the user switch between them by using the toggle on the top left of the Team
 You can control who sees the toggle by configuring the Teams Admin Center policy "Teams update policy".
   
 If the toggle is being used for the new Teams client rollout, admins must make sure that the VDI environments meet the minimum requirements described here: 
-Troubleshooting the new Teams installation - Microsoft Teams | Microsoft Learn 
+[Troubleshooting the new Teams installation - Microsoft Teams | Microsoft Learn ](https://learn.microsoft.com/en-us/microsoftteams/new-teams-troubleshooting-installation)
 
 If IT administrators set restrictions for MSIX or deploy GPOs, it could prevent users from downloading and installing the app. If restrictions are in place, the user could see errors like this: 
 
